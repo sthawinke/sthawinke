@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sthawinke
 - 👀 I’m interested in statistical genomics.
-- 🌱 I’m currently learning causal inference and prediction models
+- 🌱 I’m currently multivariate spatial statistics
 - 💞️ I’m looking to collaborate on spatial transcriptomics
 - 📫 How to reach me stijn.hawinkel@psb.ugent.be
 
